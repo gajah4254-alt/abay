@@ -3,6 +3,7 @@
 <html data-theme='default'>
 <head>
 <meta charset='utf-8'>
+<meta name="google-site-verification" content="QJ714DWJ8zjCImMOCwdVvUB-gzSNbD2UzIsFrOkknNo" />
 <title>SIMPATITOGEL – Akses Gerbang Toto 4D Terpercaya dengan Pasaran Terlengkap Di Asia, dan Layanan Profesional 24 Jam</title>
 <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgyA9FATYm6L_917RO88r9u-qdnATR1TOoa4SgBhwC1uI38euZntM5UOSiROUHfDSEUafcagFdIxvbPAXKp9iEWc2v7vvWbsS7idhCuAFJcJYjd4AAy39u_1_OrFuJOKK8i_mSCa2MCdTk51b_Ik9xPTXyqJLfrmEAIeH8K_Dqh16zaS_TYohrMKvGLQTqC=w185-h200" />
 <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgyA9FATYm6L_917RO88r9u-qdnATR1TOoa4SgBhwC1uI38euZntM5UOSiROUHfDSEUafcagFdIxvbPAXKp9iEWc2v7vvWbsS7idhCuAFJcJYjd4AAy39u_1_OrFuJOKK8i_mSCa2MCdTk51b_Ik9xPTXyqJLfrmEAIeH8K_Dqh16zaS_TYohrMKvGLQTqC=w185-h200">
