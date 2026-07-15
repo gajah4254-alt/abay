@@ -7,12 +7,12 @@
 <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgyA9FATYm6L_917RO88r9u-qdnATR1TOoa4SgBhwC1uI38euZntM5UOSiROUHfDSEUafcagFdIxvbPAXKp9iEWc2v7vvWbsS7idhCuAFJcJYjd4AAy39u_1_OrFuJOKK8i_mSCa2MCdTk51b_Ik9xPTXyqJLfrmEAIeH8K_Dqh16zaS_TYohrMKvGLQTqC=w185-h200" />
 <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEgyA9FATYm6L_917RO88r9u-qdnATR1TOoa4SgBhwC1uI38euZntM5UOSiROUHfDSEUafcagFdIxvbPAXKp9iEWc2v7vvWbsS7idhCuAFJcJYjd4AAy39u_1_OrFuJOKK8i_mSCa2MCdTk51b_Ik9xPTXyqJLfrmEAIeH8K_Dqh16zaS_TYohrMKvGLQTqC=w185-h200">
 <link rel="canonical" href="https://www.sesis.pt/inicio">
-<link rel="amphtml" href="https://mabar.ksnpc.org/" />
-<link rel="alternate" hreflang="id-id" href="https://mabar.ksnpc.org/"/>
-<link rel="alternate" href="https://mabar.ksnpc.org/"/>
-<link rel="alternate" hreflang="id" href="https://mabar.ksnpc.org/"/>
-<link rel="alternate" hreflang="en" href="https://mabar.ksnpc.org/"/>
-<link rel="alternate" hreflang="x-default" href="https://mabar.ksnpc.org/"/>
+<link rel="amphtml" href="https://amp-sesiss.pages.dev/amphsimbar22" />
+<link rel="alternate" hreflang="id-id" href="https://amp-sesiss.pages.dev/amphsimbar22"/>
+<link rel="alternate" href="https://amp-sesiss.pages.dev/amphsimbar22"/>
+<link rel="alternate" hreflang="id" href="https://amp-sesiss.pages.dev/amphsimbar22"/>
+<link rel="alternate" hreflang="en" href="https://amp-sesiss.pages.dev/amphsimbar22"/>
+<link rel="alternate" hreflang="x-default" href="https://amp-sesiss.pages.dev/amphsimbar22"/>
 <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdmV9iGxsDyvgUqGFH_j93qRYVJwMuHwdQYeSodCk-G6A4RwJKa_r6mfNtyXLOdDAizzXWG00aULZ5DMydzlZzwMuc4BxGegB3XZk15FbOpKrwPA9I6KQztmk6GDJHNb8L3fBQqOIRuMkKLHuBDss7N8mc8JbHJRcntLae7Ptf6wdj4vNE_1zpj2kJk3n/s320/dc570d8d-c125-45ec-acf9-6cab4c8f8caa.png' rel='preload'>
 <meta name="geo.region" content="ID" />
 <meta name="pinterest" content="nopin">
@@ -276,14 +276,14 @@ SIMPATITOGEL – Akses Gerbang Toto 4D Terpercaya dengan Pasaran Terlengkap Di A
 </div>
 
 <div class="btn-wrapper">
-  <a href="https://mabar.ksnpc.org/"
+  <a href="https://amp-sesiss.pages.dev/amphsimbar22"
      class="btn-pill btn-login"
      target="_top"
      rel="noopener noreferrer">
     LOGIN
   </a>
 
-  <a href="https://mabar.ksnpc.org/"
+  <a href="https://amp-sesiss.pages.dev/amphsimbar22"
      class="btn-pill btn-daftar"
      target="_top"
      rel="noopener noreferrer">
@@ -761,9 +761,9 @@ Back
 <div class='m-cart-config__select-label'>
 </div>
     <div class="SIMPATITOGEL-btn">
-    <a href="https://mabar.ksnpc.org/" rel="nofollow noreferrer"
+    <a href="https://amp-sesiss.pages.dev/amphsimbar22" rel="nofollow noreferrer"
          class="login">LOGIN</a>
-    <a href="https://mabar.ksnpc.org/" rel="nofollow noreferrer"
+    <a href="https://amp-sesiss.pages.dev/amphsimbar22" rel="nofollow noreferrer"
         class="register">DAFTAR</a>
     </div>
 
@@ -1595,7 +1595,7 @@ Read more
 </script>
 
     <div class="seller-name__detail">
-      <a href="https://mabar.ksnpc.org/" target="_top" rel="noopener noreferrer">
+      <a href="https://amp-sesiss.pages.dev/amphsimbar22" target="_top" rel="noopener noreferrer">
         SIMPATITOGEL - 2026
       </a>
     </div>
@@ -1612,7 +1612,7 @@ Share this design:
 <div class='jsSocial'>
 <ul class='m-social-share'>
 <li>
-<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://mabar.ksnpc.org/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1620,7 +1620,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://mabar.ksnpc.org/" class="link gtmFbProductShare facebook link--1 link--default">
+<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link gtmFbProductShare facebook link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1628,7 +1628,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Linktree" target="_blank" href="https://mabar.ksnpc.org/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+<a aria-label="Share to Linktree" target="_blank" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1636,7 +1636,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://mabar.ksnpc.org/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1644,7 +1644,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Reddit" target="_blank" href="https://mabar.ksnpc.org/" class="link gtmRedditProductShare reddit link--1 link--default">
+<a aria-label="Share to Reddit" target="_blank" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link gtmRedditProductShare reddit link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1652,7 +1652,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Tumblr" target="_blank" href="https://mabar.ksnpc.org/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+<a aria-label="Share to Tumblr" target="_blank" href="https://amp-sesiss.pages.dev/amphsimbar22" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -2764,7 +2764,7 @@ Shop All Designs
   
   var rsEnvData = {
     write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-    data_plane_url: "https://mabar.ksnpc.org/",
+    data_plane_url: "https://amp-sesiss.pages.dev/amphsimbar22",
     js_use_beacon: false,
     anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
     global_properties: window.rudderstackGlobalProperties
@@ -3184,8 +3184,8 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdmV9iGxsDyvgUqGFH_j93qRYVJwMuHwdQYeSodCk-G6A4RwJKa_r6mfNtyXLOdDAizzXWG00aULZ5DMydzlZzwMuc4BxGegB3XZk15FbOpKrwPA9I6KQztmk6GDJHNb8L3fBQqOIRuMkKLHuBDss7N8mc8JbHJRcntLae7Ptf6wdj4vNE_1zpj2kJk3n/s320/dc570d8d-c125-45ec-acf9-6cab4c8f8caa.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://mabar.ksnpc.org/">LOGIN</a>
-                <a href="https://mabar.ksnpc.org/">DAFTAR</a>
+                <a href="https://amp-sesiss.pages.dev/amphsimbar22">LOGIN</a>
+                <a href="https://amp-sesiss.pages.dev/amphsimbar22">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
